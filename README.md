@@ -5,7 +5,7 @@ Nací en Granada (España) y desde muy pequeño fui un gran amante de la tecnolo
 Creativo, proactivo, autocrítico y resolutivo. Con muchas ganas de aprender y afrontar nuevos retos.
 
 ## Tecnologías: 
-Javascript, ES6, Github, Node.js, Express, MongoDB, React, HTML, CSS, Jasmine, Mocha, Photoshop, XD, Premiere, Final Cut, InDesign, JQuery, Sass, Bootstrap, JQuery, Redux, React Native, Recoil, GraphQl, Socket.io, Firebase, AWS, GCP, Enzima, Vue, TailwindsCSS y AJAX
+Javascript, Typescript, Github, Node.js, Express, MongoDB, React, HTML, CSS, Jasmine, Mocha, Photoshop, XD, Premiere, Final Cut, InDesign, Sass, Bootstrap, JQuery, Redux, React Native, Recoil, GraphQl, Socket.io, Firebase, AWS, GCP, Enzima, Vue, Angular, TailwindsCSS y AJAX
 
 ## Proyectos:
 - The king of trippy (Videojuego)
@@ -13,6 +13,7 @@ Javascript, ES6, Github, Node.js, Express, MongoDB, React, HTML, CSS, Jasmine, M
 - Yayos (Cuidado para personas de la tercera edad)
 - Goodboy (Adiestramiento de mascostas)
 - The Restaurant App (Gestion de pedidos para restaurantes)
+- Your Favorite Author (Recomendaciones literarias con Inteligencia Artificial)
 
 ## Links: 
 - <a href="https://portfolio-nine-rose.vercel.app/">Portfolio</a>
